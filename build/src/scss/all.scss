@@ -1,0 +1,11 @@
+// all styles
+@import 'includes/default';
+@import 'includes/var';
+@import 'includes/fonts';
+@import 'includes/icons';
+@import 'includes/sprites';
+
+@import '../markup/blocks/header/header';
+ @import '../markup/blocks/footer/footer';
+@import '../markup/blocks/sidebar/sidebar';
+@import 'includes/main';

@@ -1,0 +1,10 @@
+rules:
+  class-name-format: 0
+  no-important: 0
+  property-sort-order: 0
+  final-newline : 0
+  pseudo-element : 0
+  indentation: 0
+  empty-line-between-blocks: 0
+  variable-name-format: 0
+  no-vendor-prefixes: 0
